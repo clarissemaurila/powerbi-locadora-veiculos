@@ -82,17 +82,17 @@ O projeto reforça conceitos fundamentais do Power BI, incluindo:
 
 ## 📁 Estrutura do Repositório
 
-📂 powerbi-locadora-veiculos
-├── capa-dashboard.png
-├── dashboard-page1.png
-├── dashboard-page2.png
-├── dashboard-page3.png
-├── modelo.png
-├── locadora-de-veiculos.pbix
-└── README.md
-
+📂 **powerbi-locadora-veiculos**  
+├── capa-dashboard.png  
+├── dashboard-page1.png  
+├── dashboard-page2.png  
+├── dashboard-page3.png  
+├── modelo.png  
+├── locadora-de-veiculos.pbix  
+└── README.md  
 
 ---
+
 
 ## 🎯 Aprendizados conquistados  
 • Diferença clara entre **DAX** e **Linguagem M**  
